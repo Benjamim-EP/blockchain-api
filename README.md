@@ -2,7 +2,7 @@
 
 Esta é uma API de blockchain desenvolvida com FastAPI.
 
-## Como rodar localmente
+### Como rodar localmente
 
 1. Clone o repositório:
 ```bash
