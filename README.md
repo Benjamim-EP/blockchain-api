@@ -24,3 +24,6 @@ pip install -r requirements.txt
 ```bash
 uvicorn app.main:app --reload
 ```
+
+### Documentação Swagger
+Você pode acessar a documentação Swagger automaticamente gerada pela FastAPI em `/docs` quando a aplicação estiver rodando. Use-a para testar e interagir com sua API de forma conveniente.
