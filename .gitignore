@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# Environment variables
+.env
+
+# Ignore any other files or directories that should not be tracked
